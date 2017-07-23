@@ -8,6 +8,10 @@ You'll be using two datasets in this project:
 
   - MNIST
   
-  -CelebA
+  - CelebA
   
 Since the celebA dataset is complex and you're doing GANs in a project for the first time, we want you to test your neural network on MNIST before CelebA. Running the GANs on MNIST will allow you to see how well your model trains sooner.
+
+![DCGAN MNIST](mnist.png)
+
+![DCGAN Face](face.png)
